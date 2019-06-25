@@ -4,12 +4,8 @@ This repository includes link(s) to files, dataset and references.
 Example images, dataset and high-res eps files regarding the (PRNU Based Source Camera Attribution for Image Sets Anonymized with Patch-Match Algorithm) paper (2019) can be accessed from: https://goo.gl/MQKuAc
 
 Should you use the dataset for research purposes, please cite the paper(s):
-PRNU based source camera attribution for image sets anonymized with patch-match algorithm
-Karaküçük and Dirik, 2019
-PRNU based source camera attribution for image sets anonymized with patch-match algorithm
-Digit. Invest. (2019), 10.1016/j.diin.2019.06.001
-URL
-https://doi.org/10.1016/j.diin.2019.06.001
+
+Karaküçük and Dirik, 2019, PRNU based source camera attribution for image sets anonymized with patch-match algorithm, Digit. Invest. (2019), 10.1016/j.diin.2019.06.001, https://doi.org/10.1016/j.diin.2019.06.001
 
 @article{KARAKUCUK2019,
 title = "PRNU based source camera attribution for image sets anonymized with patch-match algorithm",
